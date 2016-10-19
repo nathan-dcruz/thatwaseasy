@@ -1,0 +1,10 @@
+#easy {
+    width: 250px;
+    height: 250px;
+    border-radius: 120px;
+    border-color: black;
+    background-color: red;
+    font-size: 50px;
+    color: white;
+    font-family: Verdana, Geneva, sans-serif
+}
